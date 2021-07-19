@@ -40,7 +40,7 @@ cm = 59.5
 
 inches = cm * 0.3937
 
-print(f'59.5 cm = to {inches} inches')
+     print(f'59.5 cm = to {inches} inches')
 
 
 
@@ -54,11 +54,11 @@ miles = 5.9
 
 km = miles * 1.609 # 1 mile = 1.609 km
 
-print(f'5.9 miles is equal to {km} km')
+ print(f'5.9 miles is equal to {km} km')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -68,11 +68,11 @@ km = 5.9
 
 miles = km / 1.609 # as 1 mile = 1.609 km
 
-print(f'5.9 km is equal to {miles} miles')
+ print(f'5.9 km is equal to {miles} miles')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -82,11 +82,11 @@ meters = 45
 
 feet = 3.28084 * meters # 1 meters = 3.28084 feet
 
-print(f'45 meters is equal to {feet} feet')
+ print(f'45 meters is equal to {feet} feet')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -96,11 +96,11 @@ feet = 45
 
 meters = feet / 3.28084 # as 1 meter = 3.28084 feet
 
-print(f'45 feet is equal to {meters} meters')
+ print(f'45 feet is equal to {meters} meters')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -110,11 +110,11 @@ mm = 1277
 
 inches = mm / 25.4 # 1 inch = 25.4mm
 
-print(f'1277 millimeters is equal to {inches} inches')
+ print(f'1277 millimeters is equal to {inches} inches')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -124,11 +124,11 @@ inches = 127
 
 mm = inches * 25.4 # 1 inch = 25.4 mm
 
-print(f'127 inches is equal to {mm} mm')
+ print(f'127 inches is equal to {mm} mm')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -138,11 +138,11 @@ yards = 13
 
 meters = yards / 1.094 # as 1 meter = 1.094 yards
 
-print(f'13 yards is equal to {meters} meters')
+ print(f'13 yards is equal to {meters} meters')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -152,11 +152,11 @@ meters = 23
 
 yards = meters * 1.094 # as 1 meter = 1.094 yards
 
-print(f'23 meters is equal to {yards} yards')
+ print(f'23 meters is equal to {yards} yards')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -168,11 +168,11 @@ celsius = 44
 
 fehrenheit = (celsius * 9/5) + 32
 
-print(f'44 degrees celsius is equal to {fehrenheit} degrees in fehrenheit scale')
+ print(f'44 degrees celsius is equal to {fehrenheit} degrees in fehrenheit scale')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -182,11 +182,11 @@ kelvin = 250
 
 celsius = kelvin - 273.15
 
-print(f'250 degrees kelvin is equals to {celsius} degrees celsius')
+ print(f'250 degrees kelvin is equals to {celsius} degrees celsius')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -196,11 +196,11 @@ fehrenheit = 130
 
 celsius = (fehrenheit - 32) * 5/9
 
-print(f'130 degrees fehrenheit is equals to {celsius} degrees in celsius')
+ print(f'130 degrees fehrenheit is equals to {celsius} degrees in celsius')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -210,11 +210,11 @@ fehrenheit = 120
 
 kelvin = (fehrenheit - 32) * 5/9 - 273.15
 
-print(f'120 degrees fehrenheit is equals to {kelvin} degrees in kelvin scale')
+ print(f'120 degrees fehrenheit is equals to {kelvin} degrees in kelvin scale')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -224,11 +224,11 @@ celsius = 30
 
 kelvin = celsius + 273.15
 
-print(f'30 degrees celsius is equals to {kelvin} degrees in kelvin')
+ print(f'30 degrees celsius is equals to {kelvin} degrees in kelvin')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -240,11 +240,11 @@ pounds = 260
 
 kilograms = pounds / 2.205 # 1kg = 2.205lb
 
-print(f'{pounds} pounds is equals to {kilograms} kilograms')
+ print(f'{pounds} pounds is equals to {kilograms} kilograms')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -254,11 +254,11 @@ kg = 121
 
 pounds = lb = 2.205 * kg # 1 kg = 2.205 lb
 
-print(f'{kg} kg is equals to {lb} pounds')
+ print(f'{kg} kg is equals to {lb} pounds')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -270,11 +270,11 @@ kg = ounces / 35.274 # 1kg = 35.274 ounces
 
 lb = ounces / 16 # 1 lb = 16 ounces
 
-print(f'{ounces} ounces is equals to {kg} kg and {lb} pounds)')
+ print(f'{ounces} ounces is equals to {kg} kg and {lb} pounds)')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -284,11 +284,11 @@ pounds = 217
 
 grams = pounds * 454 # 1 pound = 454 grams
 
-print(f'{pounds} pounds is equals to {grams} grams')
+ print(f'{pounds} pounds is equals to {grams} grams')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -298,11 +298,11 @@ ounces = 27
 
 carats = ounces * 142 # 1 ounce = 142 carat
 
-print(f'{ounces} ounces is equals to {carats} carats')
+ print(f'{ounces} ounces is equals to {carats} carats')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -312,11 +312,11 @@ kg = 7
 
 carats = 5000 * kg # 1kg = 5000 carats
 
-print(f'{kg} kg is equals to {carats} carats')
+ print(f'{kg} kg is equals to {carats} carats')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -326,11 +326,11 @@ carats = 2701
 
 grams = carats / 5 # 1 gram = 5 carats
 
-print(f'{carats} is equals to {grams} grams')
+ print(f'{carats} is equals to {grams} grams')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -342,11 +342,11 @@ sq_m = 33
 
 sq_ft = sq_m * 10.764 # 1 sq_m = 10.764 sq_ft
 
-print(f'{sq_m} square meters is equals to {sq_ft} square feet')
+ print(f'{sq_m} square meters is equals to {sq_ft} square feet')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -356,11 +356,11 @@ sq_ft = 112.5
 
 sq_m = sq_ft / 10.764 # 1 sq_m = 10.764 sq_ft
 
-print(f'{sq_ft} square feet is equals to {sq_m} square meters')
+ print(f'{sq_ft} square feet is equals to {sq_m} square meters')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -370,11 +370,11 @@ sq_km = 3
 
 sq_ft = sq_km * 1076e+7 # 1 sq_km + 10763910.4 sq_ft & 1076e+7 is the scientific notation used for it.
 
-print(f'{sq_km} square kilometers is equals to {sq_ft} square feet')
+ print(f'{sq_km} square kilometers is equals to {sq_ft} square feet')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -386,11 +386,11 @@ gallons = 73
 
 mic_litres = 3.785e+6 * gallons #1 microlitres = 3785411.78 gallons and 3.785e+6 is the scientific notation used for it.
 
-print(f'{gallons} gallons is equals to {mic_litres} micro litres')
+ print(f'{gallons} gallons is equals to {mic_litres} micro litres')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -400,11 +400,11 @@ mic_yrd = 110.4
 
 uk_pin = mic_yrd / 6.458299660028 # 1 uk pint = 1/6.458299660028 micro yards
 
-print(f'{mic_yrd} micro yards is equals to {uk_pin} UK pints')
+ print(f'{mic_yrd} micro yards is equals to {uk_pin} UK pints')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -414,11 +414,11 @@ mil_lit = 1281
 
 mil_yrd = mil_lit * 1.307950613786E-6 #1 mili yard = 1.307E-6 mili litres
 
-print(f'{mil_lit} milli litres is equals to {mil_yrd} milli yards')
+ print(f'{mil_lit} milli litres is equals to {mil_yrd} milli yards')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -430,11 +430,11 @@ kph = 64
 
 mph = kph / 1.609344 #as 1 mile = 1.609344 kilometers
 
-print(f'{kph} kilometers per hour is equal to speed {mph} in miles per hour')
+ print(f'{kph} kilometers per hour is equal to speed {mph} in miles per hour')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -444,11 +444,11 @@ mps = 13.4
 
 kph = mps * 3.6 #as 1 mps = 3.6 kph
 
-print(f'{mps} meter per second is equals to {kph} kilometers per hour')
+ print(f'{mps} meter per second is equals to {kph} kilometers per hour')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -458,11 +458,11 @@ ips = 98
 
 kph = ips * 10.936 # 1 kph = 10.936 ips
 
-print(f'{ips} inches per second is equals to {kph} kilometers per hour')
+ print(f'{ips} inches per second is equals to {kph} kilometers per hour')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -490,11 +490,11 @@ year_4 = year * 4 #converting 4 years to seconds
 
 con_to_sec = hrs_19 + day_27 + mon_11 + year_4 #adding all the seconds
 
-print(f'4 years, 11 months, 27 days, 19 hours is equals to {con_to_sec} in seconds') #displaying the result on the console
+ print(f'4 years, 11 months, 27 days, 19 hours is equals to {con_to_sec} in seconds') #displaying the result on the console
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -506,11 +506,11 @@ bars = 12
 
 pascal = 100000 * bars # 1 bar = 100000 pascals
 
-print(f'{bars} bars pressure is equals to {pascal} pascals')
+ print(f'{bars} bars pressure is equals to {pascal} pascals')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -520,11 +520,11 @@ pascal = 23
 
 bars = pascal / 100000 #1 bar = 100000 pascals
 
-print(f'{pascal} pascals is equals to {bars} bars')
+ print(f'{pascal} pascals is equals to {bars} bars')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -536,11 +536,11 @@ bar_1 = 144 * 2088.545633 # 1 bar = 2088 psf approx
 
 ipsf = bars * bar_1
 
-print(f'{bars} bars is equals to {ipsf} inches per square feet')
+ print(f'{bars} bars is equals to {ipsf} inches per square feet')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -550,11 +550,11 @@ pascal = 88
 
 nsm = pascal # 1 pascal = 1 newton per square meter
 
-print(f'{pascal} pascal is equal to {nsm} newton per square meter')
+ print(f'{pascal} pascal is equal to {nsm} newton per square meter')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -570,11 +570,11 @@ pi = 3.1415
 
 rad = deg * pi/180
 
-print(f'{deg} degrees is equals to {rad} radians')
+ print(f'{deg} degrees is equals to {rad} radians')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -584,11 +584,11 @@ rad = 2
 
 deg = rad * 180/pi # getting the value of pi from line no 281
 
-print(f'{rad} radians is equals to {deg} degrees')
+ print(f'{rad} radians is equals to {deg} degrees')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -600,11 +600,11 @@ cel = 33
 
 ran = cel * (9/5) + 491.67 #as 0 degrees celsius = 491.67 rankine
 
-print(f'{cel} celsius is equals to {ran} degrees on ranline scale')
+ print(f'{cel} celsius is equals to {ran} degrees on ranline scale')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -614,11 +614,11 @@ cel = 33
 
 deli = (100 - cel) * 3/2 #this is the formula for converting
 
-print(f'{cel} celsius is equals to {deli} degrees in delisle sclae')
+ print(f'{cel} celsius is equals to {deli} degrees in delisle sclae')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -628,11 +628,11 @@ cel = 33
 
 newtn = (cel) * 33/100 # 1 celsius = 0.33 deg newton
 
-print(f'{cel} celsius is equals to {newtn} newtons')
+ print(f'{cel} celsius is equals to {newtn} newtons')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -642,11 +642,11 @@ cel = 33
 
 reamr = cel/1.25 # this is the formula for converting
 
-print(f'{cel} celsius is equals to {reamr} réaumur')
+ print(f'{cel} celsius is equals to {reamr} réaumur')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -656,11 +656,11 @@ cel = 33
 
 rom = cel * (21/40) + 7.5
 
-print(f'{cel} celsius is equals to {rom} rømer')
+ print(f'{cel} celsius is equals to {rom} rømer')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -672,11 +672,11 @@ lbs = 140
 
 ston = lbs / 14 # 1 stone = 14 lbs
 
-print(f'{lbs} pounds is equals to {ston} stones')
+ print(f'{lbs} pounds is equals to {ston} stones')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -698,11 +698,11 @@ ounc = 27.4
 
 troy_ounc = ounc / 1.097 #1 ounce = 0.911 troy ounce
 
-print(f'{ounc} ounces is equals to {troy_ounc} troy ounces')
+ print(f'{ounc} ounces is equals to {troy_ounc} troy ounces')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -712,11 +712,11 @@ tones = 11372.1
 
 met_tones = tones * 1.1023113109246 # as this is the formula
 
-print(f'{tones} tons is equals to {met_tones} metric tons')
+ print(f'{tones} tons is equals to {met_tones} metric tons')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -726,11 +726,11 @@ kgs = 97.4
 
 troy_lbs = kgs * 2.68 # 1 kg = 2.68 troy pounds
 
-print(f'{kgs} kilograms is equals to {troy_lbs} troy pounds')
+ print(f'{kgs} kilograms is equals to {troy_lbs} troy pounds')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -740,11 +740,11 @@ troy_lbs = 112
 
 troy_ounces = troy_lbs * 12 # 1 troy pound = 12 troy ounces
 
-print(f'{troy_lbs} troy pounds is equals to {troy_ounces} troy ounces')
+ print(f'{troy_lbs} troy pounds is equals to {troy_ounces} troy ounces')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -754,11 +754,11 @@ ounces = 34
 
 penny_w = ounces * 18.224 #as 1 ounce = 18.224 pennhweights
 
-print(f'{ounces} ounces is equals to {penny_w} pennyweights')
+ print(f'{ounces} ounces is equals to {penny_w} pennyweights')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -770,11 +770,11 @@ hect = 34
 
 acres = hect * 2.471 # 1 hect = 2.471 acres
 
-print(f'{hect} hectares is equals to {acres} acres')
+ print(f'{hect} hectares is equals to {acres} acres')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -784,11 +784,11 @@ acre = 12
 
 sq_yards = acre * 4840 # 1 acre to 4840 square yards
 
-print(f'{acre} acres is equals to {sq_yards} square yards')
+ print(f'{acre} acres is equals to {sq_yards} square yards')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -808,11 +808,11 @@ mic_lit = cub_met * 1000000000 # 1 cubic meter = 1e+9 micro litres
 
 cub_yrd = cub_met * 1.308 # 1 cubic meter = 1.308 cubic yards
 
-print(f' {cub_met} cubic meters is equals to {lit} litres, {cub_ft} cubic feet, {k_lit} kilo litres, {mic_lit} micro litres, and {cub_yrd} cubic yards')
+ print(f' {cub_met} cubic meters is equals to {lit} litres, {cub_ft} cubic feet, {k_lit} kilo litres, {mic_lit} micro litres, and {cub_yrd} cubic yards')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -836,11 +836,11 @@ yph = mmpm / 15.24 #this is the formula for converting
 
 
 
-print(f'{mmpm} millimeters per minute is equals to {kmph} kilometers per hour, {mps} miles per second, {nmph} nanometer per hour, {mpm} meters per minute, {ipm} inches per minute and {yph} yards per hour')
+ print(f'{mmpm} millimeters per minute is equals to {kmph} kilometers per hour, {mps} miles per second, {nmph} nanometer per hour, {mpm} meters per minute, {ipm} inches per minute and {yph} yards per hour')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -878,13 +878,13 @@ grad = deg * 1.111111 #1 deg = 1.111111 gradians
 
 milli_rad = deg * ((1000*pi)/180)
 
-print(f'{deg} degrees is equals to {cent} centrad, {grad} gradians and {milli_rad} milli radians but remember we could not convert the minutes and seconds due to not knowing of the conversion formula')
+ print(f'{deg} degrees is equals to {cent} centrad, {grad} gradians and {milli_rad} milli radians but remember we could not convert the minutes and seconds due to not knowing of the conversion formula')
 
 # remember that we couldn't convert the minutes and seconds, becuase we didn't know the formula
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -896,11 +896,11 @@ bars = 66
 
 torr = bars * 750.062 # because 1 bar = 750.062 torr
 
-print(f'{bars} bars is equals to {torr} torr')
+ print(f'{bars} bars is equals to {torr} torr')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -910,11 +910,11 @@ torr = 12
 
 npsm = 133.322 * torr #because 1 torr = 133.322 newton per square meter
 
-print(f'{torr} torr is equals to {npsm} newton per square meter')
+ print(f'{torr} torr is equals to {npsm} newton per square meter')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -924,11 +924,11 @@ pascal = 13
 
 lb_p_sqft = 0.02029 # 1 pascal = 0.02029 pounds per square foot
 
-print(f'{pascal} pascal is equals to {lb_p_sqft} pounds oer square feet')
+ print(f'{pascal} pascal is equals to {lb_p_sqft} pounds oer square feet')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -952,11 +952,11 @@ reaumur = celsius / 1.25 #this is the formula for conversion
 
 romer = celsius * 21/40 + 7.5 #this is the formula for conversion
 
-print(f'{celsius} degrees celsius is equals to {kelvin} degrees kelvin, {fehrenheit} degrees fehrenheit, {delisle} degrees delisle, {rankine} degrees rankine, {newton} degrees newton, {reaumur} degrees réaumur and {romer} degrees rømer')
+ print(f'{celsius} degrees celsius is equals to {kelvin} degrees kelvin, {fehrenheit} degrees fehrenheit, {delisle} degrees delisle, {rankine} degrees rankine, {newton} degrees newton, {reaumur} degrees réaumur and {romer} degrees rømer')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -968,11 +968,11 @@ kg = 12
 
 hun_wght = kg * 0.019684130552221 #this is the formula for conversion
 
-print(f'{kg} kg is equals to {hun_wght} hundred weights')
+ print(f'{kg} kg is equals to {hun_wght} hundred weights')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -984,11 +984,11 @@ short_tons = tons * 1.10231 # as 1.10231 tons = 1 short ton
 
 long_tons = tons / 1.12 #this is the formula for conversion
 
-print(f'{tons} tons is equals to {short_tons} short tons and {long_tons} long tons')
+ print(f'{tons} tons is equals to {short_tons} short tons and {long_tons} long tons')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -1000,11 +1000,11 @@ milli_gram = lbs * 453592.37 # 1 pound = 453592 milligrams approx
 
 micro_gram = lbs * 4.536e+8 # 1 pound = 453592370 micrograms
 
-print(f'{lbs} pounds is equals to {milli_gram} milli grams and {micro_gram} micro grams')
+ print(f'{lbs} pounds is equals to {milli_gram} milli grams and {micro_gram} micro grams')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -1016,12 +1016,12 @@ sq_mm = 1745.3
 
 sq_microns = sq_mm * 1e+6 # 1 square millimeters = 1000000 sq_microns
 
-print(f'{sq_mm} square millimeters is equals to {sq_microns} square microns')
+ print(f'{sq_mm} square millimeters is equals to {sq_microns} square microns')
 
 
 
-print('\n')
-
+ print('\n')
+ 
 
 
 #convert 334.2 square inches to square microns and square decimeters
@@ -1032,11 +1032,11 @@ sq_microns = sq_inch * 6.452e+8 # 1 square inches = 645160000 square microns
 
 sq_deci_m = sq_inch / 15.5 #this is the formula for conversion
 
-print(f'{sq_inch} square inches os equals to {sq_microns} square microns and {sq_deci_m} square deci meters')
+ print(f'{sq_inch} square inches os equals to {sq_microns} square microns and {sq_deci_m} square deci meters')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -1060,11 +1060,11 @@ gills = litres * 8.454 #1 litre = 8.454 gills
 
 ounces = litres * 33.814 # 1 litre = 33.814 ounces
 
-print(f'{litres} litres is equal to {uk_gal} UK gallons, {us_pint} US pints, {uk_qrt} UK quartz, {uk_t_spoons} UK table spoons, {us_tea_sp} US tea spoons, {gills} gills and {ounces} ounces')
+ print(f'{litres} litres is equal to {uk_gal} UK gallons, {us_pint} US pints, {uk_qrt} UK quartz, {uk_t_spoons} UK table spoons, {us_tea_sp} US tea spoons, {gills} gills and {ounces} ounces')
 
 
 
-print('\n')
+ print('\n')
 
 
 
@@ -1084,9 +1084,9 @@ feet_p_day = knots * 145827 #this is the formula for conversion
 
 miles_p_year = knots * 10081
 
-print(f'{knots} knots is equals to {mach} mach, {lightspeed} lightspeed, {micron_p_sec} micron per second, {feet_p_day} feet per day and {miles_p_year} miles per year')
+ print(f'{knots} knots is equals to {mach} mach, {lightspeed} lightspeed, {micron_p_sec} micron per second, {feet_p_day} feet per day and {miles_p_year} miles per year')
 
 
 
-print('\n')
+ print('\n')
 
